@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thisayuru Adiptha</h1>
-<h3 align="center">Passionate about Data Science, Data Engineering, Machine Learning, and Financial Analytics</h3>
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
+</p>
+
+<h3 align="center">Passionate about Data Science, Data Engineering, Machine Learning, and Financial Analytics</h3> 
  
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipthadissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="adipthadissanayake" /> </p>
 
